@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CodePen - World Capitals Game</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="outcome">
+        <span>You were <span id="distance"></span> km away.</span>&ensp;Score: <span id="score">0</span>
+        <button id="next" onclick="next()">Next</button>
+        <button id="finish" onclick="finish()">Finish</button>
+    </div>
+    <div id="instructions">
+        <span>Find <span id="city"></span> on the map</span>
+        <button id="check" onclick="check()">Check</button>
+    </div>
+    <div id="end">
+        <h3>Good game!</h3>
+        <p>You scored <span id="final-score"></span> / <span id="max-score"></span> pts.</p>
+        <p>Your guesses were less than 300 km away for <span id="good-rounds"></span>/<span id="total-rounds"></span> rounds.</p>
+        <button id="new-game" onclick="newGame()">New game</button>
+    </div>
+    <script src="https://sdk.woosmap.com/map/map.js?key=woos-a4593e61-b0ca-3307-b332-347c19b22558&callback=initMap" defer>
+    </script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
