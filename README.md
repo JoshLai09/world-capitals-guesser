@@ -11,6 +11,6 @@ Max score per round: 5000 pts (0 km away)
 
 The game ends when you press "Finish" or when you've gone through all the capitals.
 
-# Demo
+## Demo
 
 [Github pages](https://joshlai09.github.io/world-capitals-game/src/index.html)
