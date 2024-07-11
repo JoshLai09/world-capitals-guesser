@@ -15,4 +15,4 @@ The game ends when you press "Finish" or when you've gone through all the capita
 
 [Github pages](https://joshlai09.github.io/world-capitals-guesser/src/index.html)
 
-<img src="./desktop.png" width="49%" style="display: inline-block; margin-right: 1%; margin-bottom: 2%"><img src="./desktop%202.png" width="49%" style="display: inline-block; margin-left: 1%; margin-bottom: 2%"><img src="./desktop%203.png" width="48%">
+<img src="./desktop.png" width="300">&ensp;<img src="./desktop%202.png" width="300">&ensp;<img src="./desktop%203.png" width="300">
