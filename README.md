@@ -1,4 +1,4 @@
-# World Capitals Game
+# World Capitals Guesser
 
 Made using HTML + CSS and JS. Enjoy!
 
@@ -13,4 +13,4 @@ The game ends when you press "Finish" or when you've gone through all the capita
 
 ## Demo
 
-[Github pages](https://joshlai09.github.io/world-capitals-game/src/index.html)
+[Github pages](https://joshlai09.github.io/world-capitals-guesser/src/index.html)
